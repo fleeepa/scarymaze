@@ -1,2 +1,2 @@
 # scarymaze
-Scary Maze?
+Scary Maze! Try to touch all the walls possible :-)
